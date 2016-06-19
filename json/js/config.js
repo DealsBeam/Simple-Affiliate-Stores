@@ -9,7 +9,7 @@ $(function() {
 		// set to true if you want pages; false if you want infinite scroll
 		paginate : true,
 		// suggest form URL
-		suggestionFormURL : "https://docs.google.com/forms/d/1uoRS0OQeXIzf380_MUASZIEvZct0wDov3cqQFY36t7k/viewform"
+		suggestionFormURL : "https://docs.google.com/forms/d/1AAjNq57P-zbRp1yUi2coDVMlpTxoJaTR3_67Kju7Wpw/viewform"
 	});
 });
 //Pagination function
