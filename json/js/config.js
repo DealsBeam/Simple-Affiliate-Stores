@@ -1,7 +1,7 @@
 $(function() {
 	simpleStore.init({
 		// brand can be text or image URL
-		brand : "Simple Affiliate Stores",
+		brand : "Deals Beam",
 		// numder of products per row (accepts 1, 2 or 3)
 		numColumns : 3,
 		// name of JSON file
