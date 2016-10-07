@@ -1,6 +1,13 @@
 {
 	"products" : [
 		{
+			"name" : "NVIDIA TITAN X",
+        			"price" : "$1200",
+        			"image" : "https://images.nvidia.com/pascal/img/titanx/titanx-shop.png",
+        			"href" : "http://www.geforce.com/",
+        			"desc" : "NVIDIA TITAN X"
+                },
+		{
 			"name" : "Awesome T-shirt",
 			"price" : "35.99",
 			"image" : "http://upload.wikimedia.org/wikipedia/commons/c/c6/Grey_Tshirt.jpg",
