@@ -1,11 +1,11 @@
 {
 	"products" : [
 		{
-			"name" : "NVIDIA TITAN X",
+			"name" : "Radeon RX 480",
         		"price" : "$1200",
-        		"image" : "https://images.nvidia.com/pascal/img/titanx/titanx-shop.png",
-        		"href" : "http://www.geforce.com/",
-        		"desc" : "NVIDIA TITAN X"
+        		"image" : "https://i.imgur.com/pDPSjdP.png",
+        		"href" : "http://www.amd.com/",
+        		"desc" : "AMD Radeon RX 480"
                 },
 		{
 			"name" : "Awesome T-shirt",
